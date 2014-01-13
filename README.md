@@ -1,4 +1,4 @@
 enum-error-handling
 ===================
 
-And example on how to handle errors using enums
+An example on how to handle errors using enums.
